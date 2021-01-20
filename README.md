@@ -12,4 +12,4 @@
   <li>Listar Passagens</li>
   <li>Sair</li>
  </ol>
-<p>Ao cadastrar uma passagem ao final o sistema pergunta se quer cadastrar uma nova passagem, caso contrário volta ao menu anterior</p>
+<p>Ao cadastrar uma passagem ao final o sistema pergunta se quer cadastrar uma nova passagem, caso contrário volta ao menu anterior.</p>
